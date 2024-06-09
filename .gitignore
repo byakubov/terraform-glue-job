@@ -20,3 +20,5 @@ override.tf.json
 
 # Ignore terraform provider binaries
 terraform/.terraform/providers/terraform/.terraform/
+terraform/.terraform/
+terraform/.terraform/
