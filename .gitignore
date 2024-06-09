@@ -22,3 +22,4 @@ override.tf.json
 terraform/.terraform/providers/terraform/.terraform/
 terraform/.terraform/
 terraform/.terraform/
+terraform/.terraform/providers/
